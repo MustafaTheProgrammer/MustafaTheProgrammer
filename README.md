@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MustafaTheProgrammer
 - 👀 I’m interested in programming and video game creation
-- 🌱 I’m currently learning html, to learn java to learn c#
-- 💞️ I’m looking to collaborate on making projects in html
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on making projects in c#
 - 📫 How to reach me, talk to me on Gmail
 
 <!---
