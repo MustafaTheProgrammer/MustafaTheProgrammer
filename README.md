@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MustafaTheProgrammer
-- 👀 I’m interested in programming and video game creation
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on making projects in c#
+- 👋 Hi, I’m @MustafaTheProgrammer, or have a username related to bananas on ither sites
+- 👀 I’m interested in programming and game development
+- 🌱 I’m currently makig ascii games in Java from scratch
+- 💞️ I’m looking to make continue making better ascii games and improve my programming skills
 - 📫 How to reach me, talk to me on Gmail
 
 <!---
