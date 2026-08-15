@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MustafaTheProgrammer, I have usernames related to bananas on other sites
 - ✨ I’m interested in programming and game development
-- 🌱 I’m currently making most likely my last Java ascii game program, Ron's Quest
-- 💞️ I’m looking to finish Ron's Quest and get onto more Computer Science things
+- 🌱 I’m currently learning C programming
+- 💞️ I’m looking to get into low level programming and then low level game dev
 - 📫 How to reach me, talk to me on Gmail
 
 <!---
