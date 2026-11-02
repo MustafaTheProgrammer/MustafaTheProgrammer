@@ -2,11 +2,11 @@
 - ✨ I’m interested in programming and game development
 - 🌱 I’m currently getting more into gamedev with C
 - 💞️ I’m looking forward to:
--   making the tools I'd need to suitably develop games with C
--   making games with C
--   size coding later on
--   posting on YT again
--   Being more active on Github
+- _making the tools I'd need to suitably develop games with C
+- _making games with C
+- _size coding later on
+- _posting on YT again
+- _Being more active on Github
 - 📫 I'm on YT as BananaMan6763
   
 <!---
