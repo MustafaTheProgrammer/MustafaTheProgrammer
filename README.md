@@ -5,8 +5,10 @@
 -  -making the tools I'd need to suitably develop games with C
 -  -making games with C
 -  -size coding later on
-- 📫 How to reach me is on Gmail
-
+-  -posting on YT again
+-  -Being more active on Github
+- 📫 I'm on YT as BananaMan6763
+  
 <!---
 MustafaTheProgrammer/MustafaTheProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
